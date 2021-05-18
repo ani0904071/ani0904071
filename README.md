@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Animesh Kar. I did my graduation from Chittagong University of Engineering & technology. 
+- 👋 Hi, I’m Animesh Kar. I did my graduation on Computer Science (CS) from Chittagong University of Engineering & Technology (CUET), Bangladesh. 
 I started my career at April 2015 Professionally in the Software Industry.
 - 👀 I’m interested in Java, Databases(MySql,SQLite anything), Mobile Apps.
 - 🌱 I’m currently learning Ionic Cordova and doing some online courses.
