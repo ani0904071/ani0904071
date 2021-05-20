@@ -10,6 +10,9 @@ I started my career at April 2015 Professionally in the Software Industry.animes
 
 - Online Certfifications:
   - Computational Thinking: https://coursera.org/share/a2876fe6fca20c06e2ec84f3e3160ce6
+  - HackerRank:
+      - SQL: https://www.hackerrank.com/certificates/36c92b90ef58
+      - Java: https://www.hackerrank.com/certificates/906d98a14ce6
 
 <!---
 ani0904071/ani0904071 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
