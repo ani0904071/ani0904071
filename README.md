@@ -1,13 +1,13 @@
-- 👋 Hi, I’m Animesh Kar. I am currently enrolled at the prestigious University of Saskatchewan on graduate program in Cybersecurity(thesis).
-- I completed my graduation on Computer Science (CS) from Chittagong University of Engineering & Technology (CUET), Bangladesh. 
-I started my career in April 2015 Professionally in the Software Industry in Bangladesh. Though I had worked part time previously and worked on my final year thesis on Image Processing in paralel.
+- 👋 Hi, I’m Animesh Kar. I am currently enrolled at the prestigious University of Saskatchewan in a graduate program in Cybersecurity(thesis).
+- I completed my graduation in Computer Science (CS) from Chittagong University of Engineering & Technology (CUET), Bangladesh. 
+I started my career in April 2015 Professionally in the Software Industry in Bangladesh. Though I had worked part-time previously and worked on my final year thesis on Image Processing in parallel.
 - 🌱 I am currently focused on my master's program and on some online courses on LinkedIn.
-  - Currently going through feature sets of Web Server Fingerprinting, validating with online tools with: 
-    - different VM configuration setup with servers, focusing on service, application, redirection, applicatiuon levels, & response header analysis etc
-  - initially went through code cloing
-- 👀 I’m interested in Java, Databases(MySql,SQLite anything), Web/Mobile Apps.
+  - Currently going through feature sets of Web Server Fingerprinting, validating with online tools on: 
+    - different VM configuration setup with servers, focusing on service, application, redirection, application levels, & response header analysis, etc
+  - initially went through code cloning
+- 👀 I’m interested in Java, Databases(MySql, SQLite anything), Web/Mobile Apps.
 - 💞️ I’m looking to collaborate on any complex Technical Business Logics.
-- Online Certfifications:
+- Online Certification:
   - Coursera
       - Computational Thinking: https://coursera.org/share/a2876fe6fca20c06e2ec84f3e3160ce6
   - HackerRank:
