@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Animesh Kar. I have completed my master's in Cybersecurity from the prestigious University of Saskatchewan in a graduate program in Cybersecurity(thesis).
+- 👋 Hi, I’m Animesh Kar. I have completed my thesis-based master's in Cybersecurity from the prestigious University of Saskatchewan(USASK), Canada.
 - I graduated in Computer Science (CS) from Chittagong University of Engineering & Technology (CUET), Bangladesh. 
 I started my career in April 2015 Professionally in the Software Industry in Bangladesh. Though I had worked part-time previously and worked on my final year thesis on Image Processing in parallel.
-- 🌱 I am currently focused on my master's program. (and sometimes on some online courses in LinkedIn)
+- 🌱 I am currently focused on my master's program. (and sometimes on some online courses on LinkedIn)
   - Currently, working on Android Data Leaks, Information Stealing procedures (for thesis)
   - Went through a project called 'Web Server Fingerprinting': 
     - different VM configuration setup with servers, focusing on service, application, redirection, application levels, & response header analysis with Machine Learning, adaptive HTTP request selections, etc.
