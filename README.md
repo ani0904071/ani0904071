@@ -1,36 +1,42 @@
-- 👋 Hi, I’m Animesh Kar. I have completed my thesis-based master's in Cybersecurity from the prestigious University of Saskatchewan(USASK), Canada.
-- I graduated in Computer Science (CS) from Chittagong University of Engineering & Technology (CUET), Bangladesh. 
-I started my career in April 2015 Professionally in the Software Industry in Bangladesh. Though I had worked part-time previously and worked on my final year thesis on Image Processing in parallel.
-- 🌱 I am currently focused on my master's program. (and sometimes on some online courses on LinkedIn)
-  - Worked on Android Privacy Leakage through Android Browsers, Toast Overlay Attack, Overlay Defense (for thesis)
-  - Went through a project called 'Web Server Fingerprinting': 
-    - different VM configuration setup with servers, focusing on service, application, redirection, application levels, & response header analysis with Machine Learning, adaptive HTTP request selections, etc.
-  - initially went through code cloning
-- 👀 I’m interested in Java, Databases(MySql, SQLite anything), & Web/Mobile Apps.
-- 💞️ I’m looking to collaborate on any complex Technical Business Logic.
-- Online Certification:
-  - Coursera
-      - Computational Thinking: https://coursera.org/share/a2876fe6fca20c06e2ec84f3e3160ce6
-  - HackerRank:
-      - SQL: https://www.hackerrank.com/certificates/36c92b90ef58
-      - Java: https://www.hackerrank.com/certificates/906d98a14ce6
+👋 Hi, I’m Animesh Kar
+- 🔧 Java Back-End Developer | Data & Cybersecurity Enthusiast
 
-- Publications
-  - Conference
-  > - Animesh Kar, Natalia Stakhanova, Enrico Branca, "Detecting Overlay Attacks in Android". In The 14th International Conference on Emerging Ubiquitous Systems and Pervasive Networks(EUSPN). 2023. 
-  > - Animesh Kar, Natalia Stakhanova, "Exploiting Android Browsers". In The International Conference on Cryptology and Network Security (CANS). 2023. 
-  > - Animesh Kar, Andrei Natadze, Enrico Branca, Natalia Stakhanova, "HTTPFuzz: Web Server Fingerprinting with HTTP Request Fuzzing", In Proceedings of the 19th International Conference on Security and Cryptography - SECRYPT, ISBN 978-989-758-590-6; ISSN 2184-7711, pages 261-271. DOI: 10.5220/0011328900003283. (2022)
-URL: https://www.scitepress.org/Link.aspx?doi=10.5220%2f0011328900003283
-  > - Animesh Kar, Kaushik Deb, "Moving cast shadow detection and removal from Video based on HSV color space," 2015 International Conference on Electrical Engineering and Information Communication Technology (ICEEICT), 2015, pp. 1-6, doi: 10.1109/ICEEICT.2015.7307443.
-URL: https://ieeexplore.ieee.org/document/7307443
-  - Journal
-  > - Kaushik Deb, Animesh Kar, and Ashraful Huq Suny, "Cast shadow detection and removal of moving objects from video based on HSV color space." SmartCR, 5.1(2015): 38-50. URL: https://scholar.archive.org/work/no2xynryijfwpila4cso45hf3i
+    - 💻 **Core Skills:** Proficient in Java, Python, and Spring Boot for developing robust back-end systems. Skilled in database design, query optimization, and managing data-centric processes using MySQL and Elasticsearch.
+    - 🛡️ **Cybersecurity Expertise:** Hands-on experience with secure SDLC, SQL injection prevention, CSRF/XSS mitigation, and static/dynamic analysis. My research on web server fingerprinting and Android privilege escalation has been published and recognized internationally.
+    - 📊 **Research and Impact:** Passionate about applying research to real-world problems. Projects include *HTTP Request Fuzzing, Overlay Attack Detection, and Automated Decompilation workflows for malware analysis*.
+    - 🚀 **What Drives Me:** Enthusiastic about solving complex security-driven software research and back-end development challenges, leveraging data and systems to create scalable, secure solutions.
+    - 🤝 **Collaboration and Mentorship:** Experienced in mentoring/guiding developers, leading SaaS projects, and collaborating with diverse teams using Agile methodologies.
+
+📂 Repositories: Explore my public repos that seemed once important to me!
+
+🌟 Let’s connect and collaborate on innovative projects!
+- 📧 Email: kar.animesh.0904071@gmail.com |  📞 Phone: +1 (306) 850-2192 | 📫 LinkedIn: https://www.linkedin.com/in/animesh-kar-56013ba8/
+
+📚 Publications
+Conference Papers
+
+    Animesh Kar, Natalia Stakhanova, Enrico Branca. 
+    "Detecting Overlay Attacks in Android." (**Best Paper Award** )
+    Presented at the 14th International Conference on Emerging Ubiquitous Systems and Pervasive Networks (EUSPN), 2023.
+
+    Animesh Kar, Natalia Stakhanova.
+    "Exploiting Android Browsers."
+    Presented at the International Conference on Cryptology and Network Security (CANS), 2023.
+
+    Animesh Kar, Andrei Natadze, Enrico Branca, Natalia Stakhanova.
+    "HTTPFuzz: Web Server Fingerprinting with HTTP Request Fuzzing."
+    Published in the Proceedings of the 19th International Conference on Security and Cryptography (SECRYPT), 2022.
+
+    Animesh Kar, Kaushik Deb.
+    "Moving Cast Shadow Detection and Removal from Video Based on HSV Color Space."
+    Published at the International Conference on Electrical Engineering and Information Communication Technology (ICEEICT), 2015.
 
 
-- 📫 Feel free to reach me on the following:
-  - Email: kar.animesh.0904071@gmail.com / anicse0904071@gmail.com 
-  - Phone: +1 3068502192 (primary)
-  - LinkedIn: https://www.linkedin.com/in/animesh-kar-56013ba8/
+Journal Article
+
+    Kaushik Deb, Animesh Kar, Ashraful Huq Suny.
+    "Cast Shadow Detection and Removal of Moving Objects from Video Based on HSV Color Space."
+    Published in SmartCR, 5.1(2015): 38-50.
 
 <!---
 ani0904071/ani0904071 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
