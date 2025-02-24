@@ -7,7 +7,7 @@
     - 🚀 **What Drives Me:** Enthusiastic about solving complex security-driven software research and back-end development challenges, leveraging data and systems to create scalable, secure solutions.
     - 🤝 **Collaboration and Mentorship:** Experienced in mentoring/guiding developers, leading SaaS projects, and collaborating with diverse teams using Agile methodologies.
 
-📂 Repositories: Explore my public repos that seemed once important to me!
+📂 Repositories: Explore my public repos that seemed important to me, once!
 
 🌟 Let’s connect and collaborate on innovative projects!
 - 📧 Email: kar.animesh.0904071@gmail.com |  📞 Phone: +1 (306) 850-2192 | 📫 LinkedIn: https://www.linkedin.com/in/animesh-kar-56013ba8/
